@@ -1,0 +1,68 @@
+body{ text-align: center;}
+h1{  text-align: center;
+     font-size: 400%;
+     color: gold;
+     text-shadow: 5px 5px 3px red;}
+     p{ text-align: justify;}
+
+
+.a{  
+     color: pink ;
+      font-size: 200%;
+      font-style: oblique;
+
+      }
+
+
+
+
+
+.b{   color: blue; font-size: 500%; text-decoration: underline black;  }
+
+.c{  background-image: url(  https://c8.alamy.com/comp/2HK63F8/inspired-by-iva-natrja-iva-king-of-dancers-indian-chola-dynasty-c8601279-12th-century-bronze-and-iron-made-in-india-asia-metalwork-sculpture-height-34-58-in-879-cm-reimagined-by-artotop-classic-art-reinvented-with-a-modern-twist-design-of-warm-cheerful-glowing-of-brightness-and-light-ray-radiance-photography-inspired-by-surrealism-and-futurism-embracing-dynamic-energy-of-modern-technology-movement-speed-and-revolutionize-culture-2HK63F8.jpg );
+     background-repeat: no-repeat;
+    background-size: cover;}
+
+
+
+
+a:hover{ 
+     color: red;
+     background-color: blue;
+     border-radius: 5px;
+     border: 5px;
+     font-size: 50px;
+}
+.active{ 
+     color: black;
+     background-color: aqua;
+     
+
+}
+
+a{  
+     font-size: 50px;
+     padding-left: 25px;
+  }
+p{ 
+     font-size: x-large;
+     text-align: justify;
+}
+
+.e{
+     color: grey;
+     font-size: xx-large;
+     
+}
+
+.f{
+     color: blue;
+     font-size: x-large;
+}
+.g{ 
+     background-color: black;
+}
+.h{ 
+     font-size: 50px;
+     color: chartreuse;
+}
